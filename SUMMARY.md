@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Git Sync Error](README.md)
+* [Page](README.md)
+* [Page 1](page-1.md)
